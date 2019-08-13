@@ -1,5 +1,4 @@
-# Shopping-and-Ordering-System
-# Event Search and Ticket Recommendation
+# Shopping and Ordering System
 An interactive web application full stack project for users to search events by their geolocations and get recommendations based on their favorite records.(Events are fetched from TicketMaster API)
 
 ## Tech Stack
